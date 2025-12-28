@@ -598,5 +598,3 @@ const FoundationDrawing = () => {
     </div>
   );
 };
-
-export default FoundationDrawing;
